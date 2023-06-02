@@ -24,4 +24,5 @@ Seaborn,
 Scikit-learn,
 TextBlob
 
-You can install these packages by running - ### pip install -r requirements.txt in your command line.
+You can install these packages by running -
+#### pip install -r requirements.txt in your command line.
