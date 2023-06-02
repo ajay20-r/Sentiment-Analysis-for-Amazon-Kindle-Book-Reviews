@@ -7,10 +7,10 @@ I've got my hands on a treasure trove of Amazon Kindle book reviews. It's a mix 
 
 ## Here's a quick rundown of what I've done:
 
-Pre-processing: I've cleaned up the text and organized the data to prepare it for analysis.
-Visualization: I've created visually appealing word clouds to showcase the most popular words in the reviews.
-Model Building: I've used a Gaussian Naive Bayes model to predict sentiment based on the text.
-Sentiment Analysis: I've explored the polarity and subjectivity of the reviews to understand the overall sentiment expressed by readers.
+Pre-processing: I've cleaned up the text and organized the data to prepare it for analysis.<br />
+Visualization: I've created visually appealing word clouds to showcase the most popular words in the reviews. <br />
+Model Building: I've used a Gaussian Naive Bayes model to predict sentiment based on the text. <br />
+Sentiment Analysis: I've explored the polarity and subjectivity of the reviews to understand the overall sentiment expressed by readers. <br />
 
 ### Feel free to dive into the code and explore the project further. Don't forget to bring your love for books along for the ride! 📖💫
 
