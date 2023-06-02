@@ -16,12 +16,12 @@ Sentiment Analysis: I've explored the polarity and subjectivity of the reviews t
 
 ## Requirements
 Install the required dependencies:
-Pandas
-NLTK
-WordCloud
-Matplotlib
-Seaborn
-Scikit-learn
+Pandas,
+NLTK,
+WordCloud,
+Matplotlib,
+Seaborn,
+Scikit-learn,
 TextBlob
 
 You can install these packages by running pip install -r requirements.txt in your command line.
